@@ -1,4 +1,7 @@
 {
-    "name" : "docker-android-heroku",
-    "author": "ogil7190"
-}
+    "name": "docker-android-heroku",
+    "description": "test repo",
+    "repository": "https://github.com/ogil7190/docker-android-heroku",
+    "keywords": ["docker", "node"],
+    "stack": "container"
+  }
